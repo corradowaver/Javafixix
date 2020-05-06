@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e2631a8-90d6-46db-80ce-535a0500d90e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="goods-db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaFixBestPractice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JavaFixBestPractice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b2ULsDhKDglptNxAZ2nUMmx92g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testStuff" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\corradowaver\JavaLabs\Javafixix\src\main\resources\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corradowaver.store.Launcher" />
+      <module name="JavaFixBestPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Javafixix [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Javafixix [run]" />
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/GitHub/hsse-fp-2019-2/tasks/scala/2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e2631a8-90d6-46db-80ce-535a0500d90e" name="Default Changelist" comment="" />
+      <created>1587829628976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587829628976</updated>
+      <workItem from="1587829633364" duration="2148000" />
+      <workItem from="1587976871125" duration="7591000" />
+      <workItem from="1588444226616" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Project_Structure" timestamp="1587829925450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587829925450" />
+    <state x="223" y="0" width="1109" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587980316859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1109" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587980316859" />
+    <state x="530" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1587985760065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587985760065" />
+    <state x="588" y="0" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587986002474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="0" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1587986002474" />
+    <state x="299" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587982540314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1587982540314" />
+    <state x="517" y="234" width="660" height="362" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587978395197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="234" width="660" height="362" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1587978395197" />
+    <state x="517" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587982542814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1587982542814" />
+    <state x="499" y="96" key="FileChooserDialogImpl" timestamp="1588444278518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="96" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588444278518" />
+    <state width="1482" height="309" key="GridCell.Tab.0.bottom" timestamp="1587986344929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="309" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587986344929" />
+    <state width="1482" height="309" key="GridCell.Tab.0.center" timestamp="1587986344928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="309" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587986344928" />
+    <state width="1482" height="309" key="GridCell.Tab.0.left" timestamp="1587986344928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="309" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587986344928" />
+    <state width="1482" height="309" key="GridCell.Tab.0.right" timestamp="1587986344928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="309" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587986344928" />
+    <state width="1482" height="222" key="GridCell.Tab.1.bottom" timestamp="1587986344921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587986344921" />
+    <state width="1482" height="222" key="GridCell.Tab.1.center" timestamp="1587986344920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587986344920" />
+    <state width="1482" height="222" key="GridCell.Tab.1.left" timestamp="1587986344920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587986344920" />
+    <state width="1482" height="222" key="GridCell.Tab.1.right" timestamp="1587986344921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1482" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587986344921" />
+    <state width="244" height="589" key="HiddenNamespacesPopup" timestamp="1587980060959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="244" height="589" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1587980060959" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1587986194080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587986194080" />
+    <state x="0" y="0" key="new project wizard" timestamp="1588444266023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588444266023" />
+  </component>
+</project>
