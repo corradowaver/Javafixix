@@ -49,7 +49,7 @@ public class TableDao  {
     ps.setString(1, title);
     ResultSet resultSet = ps.executeQuery();
     resultSet.next();
-    return resultSet.getInt("cost");
+    return resultSet.getString("cost");
   }
 
   public void changePrice(Product product, int newPrice) throws SQLException {

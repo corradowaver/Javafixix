@@ -20,6 +20,7 @@ public class Launcher extends Application {
     root = FXMLLoader.load(getClass().getResource("/view/main.fxml"));
     Scene rootScene = new Scene(root);
     stage.setScene(rootScene);
+    stage.setResizable(false);
     stage.show();
   }
 }

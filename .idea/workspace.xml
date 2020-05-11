@@ -2,31 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e2631a8-90d6-46db-80ce-535a0500d90e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/view/app.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/Launcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/connector/Connector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/table/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/table/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/table/TableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/table/TableController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/table/TableDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/table/TableDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/user/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/user/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/store/user/UserActionsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/user/UserActionsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/view/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/view/main.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/table/TableDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/corradowaver/app/table/TableDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/view/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/AppController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/app.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/main.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/main.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +249,7 @@
       <workItem from="1588444226616" duration="51000" />
       <workItem from="1588776765428" duration="5503000" />
       <workItem from="1588928153107" duration="1825000" />
-      <workItem from="1589206771109" duration="6843000" />
+      <workItem from="1589206771109" duration="9038000" />
     </task>
     <servers />
   </component>
@@ -305,38 +293,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="96" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588933272455" />
-    <state width="1482" height="141" key="GridCell.Tab.0.bottom" timestamp="1589212290634">
+    <state width="1482" height="126" key="GridCell.Tab.0.bottom" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589212290634" />
-    <state width="1482" height="141" key="GridCell.Tab.0.center" timestamp="1589212290633">
+    <state width="1482" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.0.center" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589212290633" />
-    <state width="1482" height="141" key="GridCell.Tab.0.left" timestamp="1589212290633">
+    <state width="1482" height="126" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.0.left" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589212290633" />
-    <state width="1482" height="141" key="GridCell.Tab.0.right" timestamp="1589212290633">
+    <state width="1482" height="126" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.0.right" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589212290633" />
-    <state width="1482" height="126" key="GridCell.Tab.1.bottom" timestamp="1589207522183">
+    <state width="1482" height="126" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.1.bottom" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="126" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589207522183" />
-    <state width="1482" height="126" key="GridCell.Tab.1.center" timestamp="1589207522183">
+    <state width="1482" height="126" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.1.center" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="126" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589207522183" />
-    <state width="1482" height="126" key="GridCell.Tab.1.left" timestamp="1589207522183">
+    <state width="1482" height="126" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.1.left" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="126" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589207522183" />
-    <state width="1482" height="126" key="GridCell.Tab.1.right" timestamp="1589207522183">
+    <state width="1482" height="126" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
+    <state width="1482" height="126" key="GridCell.Tab.1.right" timestamp="1589215827228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1482" height="126" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589207522183" />
+    <state width="1482" height="126" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589215827228" />
     <state width="244" height="589" key="HiddenNamespacesPopup" timestamp="1587980060959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

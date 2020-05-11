@@ -3,6 +3,7 @@ package view;
 import com.corradowaver.app.table.Product;
 import com.corradowaver.app.table.TableController;
 import com.corradowaver.app.table.TableDao;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
@@ -24,15 +25,16 @@ public class AppController {
   }
 
   @FXML
-  public void submit() {
+  public void onEnter(ActionEvent ae){
     processInput(input.getText());
+    input.clear();
   }
 
   private void processInput(String inputArgs) {
     String[] arguments = inputArgs.split(" ");
     String command = arguments[0];
     switch (command) {
-      case "default_task":
+      case "/default_task":
         defaultTask(arguments[1]);
         break;
       case "/add":
@@ -55,8 +57,10 @@ public class AppController {
         break;
       case "/get_price":
         getPrice(arguments[1]);
-      case "change_price":
+        break;
+      case "/change_price":
         changePrice(arguments);
+        break;
       default:
         output.appendText("Invalid command.\n");
         break;
@@ -169,7 +173,7 @@ public class AppController {
   }
 
   private void add(String title, int cost) {
-    String[] arguments = {title, String.valueOf(cost)};
+    String[] arguments = {null, title, String.valueOf(cost)};
     add(arguments);
   }
 
@@ -192,7 +196,7 @@ public class AppController {
   private void printList(List<Product> products) {
     products.forEach(product -> {
       output.appendText(" ____________________ \n");
-      output.appendText("| " + product.getTitle() + " | " + product.getCost() + " |\n");
+      output.appendText(product.getTitle() + "\t" + product.getCost() + "\n");
     });
   }
 
